@@ -4,6 +4,7 @@
    git clone https://github.com/ibm-cloud-architecture/refarch-cloudnative
    cd refarch-cloudnative
    git checkout 9d148ecb740d89bbcdfda1ae0e9cf02edf5bceba
+   cd /home/bmxuser
    git clone https://github.com/ibm-cloud-architecture/refarch-cloudnative-api
    git clone https://github.com/ibm-cloud-architecture/refarch-cloudnative-bluecompute-web
    git clone https://github.com/ibm-cloud-architecture/refarch-cloudnative-micro-inventory
